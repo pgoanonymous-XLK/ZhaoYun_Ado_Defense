@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://d252ouu67bsye"]
+
+[node name="main" type="Node2D" unique_id=823234094]
+
+[node name="OpponentZone" type="Node2D" parent="." unique_id=1307987506]
+
+[node name="MoatZone" type="Node2D" parent="." unique_id=1070961003]
+
+[node name="PlayerZone" type="Node2D" parent="." unique_id=1907603001]
